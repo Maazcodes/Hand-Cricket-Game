@@ -258,3 +258,5 @@ while True:
                 
     if not replay():
         break
+
+  #The end of game
