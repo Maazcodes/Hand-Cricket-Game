@@ -1,4 +1,4 @@
-# Current_Project
+# Hand Cricket Game
 Play cricket game by hand
 
 - Firstly, there is a toss by showing numbers with hands. Each of both players has to say odd or even. 
